@@ -1,0 +1,12 @@
+<funds>
+  <fund>
+    <id>1</id>
+    <name>ABERDEEN</name>
+    <rate>8.91</rate>
+  </fund>
+  <fund>
+    <id>2</id>
+    <name>PERPAUS</name>
+    <rate>7.91</rate>
+  </fund>
+</funds>
